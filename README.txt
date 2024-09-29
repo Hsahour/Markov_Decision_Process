@@ -1,0 +1,2 @@
+The project explores two different Markov Decision Process (MDP) challenges, employing three 
+reinforcement learning algorithms as solution: value iteration, policy iteration, and the model-free QLearning method.
